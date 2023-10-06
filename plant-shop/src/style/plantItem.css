@@ -1,0 +1,14 @@
+.priceIcon{
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 50px;
+    border-radius: 8px;
+    color: white;
+    
+}

@@ -1,0 +1,25 @@
+
+.phrase{
+    /* position: absolute;
+    top: 0;
+    right: 0; */
+    display: flex;
+    justify-content: right;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+
+.image{
+    position: absolute;
+    top: 0;
+    right: 200px;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    margin-top: 50px;
+}
+
+.banner_holder{
+    height: 80px;
+}
